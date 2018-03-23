@@ -26,7 +26,6 @@
     "picasso-plugin-hammer": "0.5.3"
   },
   "scripts": {
-    "comp": "tsc -p tsconfig.json",
-    "build": "tsc -p tsconfig.json && gulp copy-src && gulp copy-node-davinci && gulp copy-node-picasso && gulp copy-node-q && gulp copy-node-ace &&  gulp copy-main"
+    "build": "tsc -p tsconfig.json && gulp less"
   }
 }
