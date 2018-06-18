@@ -1,4 +1,5 @@
 # Picasso Editor Extension
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d0f0b730b8324a50bec982a3a2d7e5b0)](https://app.codacy.com/app/konne/q2g-ext-picasso?utm_source=github.com&utm_medium=referral&utm_content=q2g/q2g-ext-picasso&utm_campaign=badger)
 [![Downloads](https://m.sense2go.net/downloads.svg?q2g-ext-picasso)](https://m.sense2go.net/extension-package)
 
 This extension was developed, to ease the development of Picasso.js charts. The big advantage is, that you can see without compiling your code, what your changes in your chart object resolve in. Because of the implementation of a fully working editor, you can directly see syntax errors, as well as errors in the notation of you JSON objects. 
