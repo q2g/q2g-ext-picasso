@@ -1,11 +1,11 @@
 {
-  "name": "q2g-ext-picassowizzard-unit",
+  "name": "q2g-ext-picasso-wizzard-test",
   "version": "0.0.1",
   "license": "MIT",
   "description": "displayes all bookmars",
   "repository": {
     "type": "git",
-    "url": "https://github.com/q2g/q2g-ext-bookmark"
+    "url": "https://github.com/q2g/q2g-ext-picasso"
   },
   "author": "Thomas Häning, Konrad Mattheis (qlik2go) ",
   "devDependencies": {
