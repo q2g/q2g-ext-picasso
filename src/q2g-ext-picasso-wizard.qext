@@ -1,0 +1,13 @@
+{
+    "author": "Thomas Häning, Konrad Mattheis (qlik2go) ",
+    "description": "create Picasso Charts",
+    "icon": "filterpane",
+    "name": "q2g picassoWizard",
+    "type": "visualization",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": "https://github.com/q2g/q2g-ext-picassoWizard",
+    "dependencies": {
+        "qlik-sense": ">=3.2.x"
+    }
+}

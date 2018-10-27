@@ -5,7 +5,7 @@ import * as template                        from "text!./q2g-ext-picassoWizardEx
 import { utils,
          logging,
          services,
-         version }                          from "../node_modules/davinci.js/dist/umd/daVinci";
+         version }                          from "./node_modules/davinci.js/dist/umd/daVinci";
 import { PicassoWizardDirectiveFactory }    from "./q2g-ext-picassoWizardDirective";
 //#endregion
 

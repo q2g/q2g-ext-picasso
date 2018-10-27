@@ -1,12 +1,12 @@
 //#region Imports
 import { utils,
-         logging }              from "../node_modules/davinci.js/dist/umd/daVinci";
+         logging }              from "./node_modules/davinci.js/dist/umd/daVinci";
 import * as qvangular           from "qvangular";
 import * as template            from "text!./q2g-ext-picassoWizardDirective.html";
-import * as picassoImport       from "../node_modules/picasso.js/dist/picasso";
-import * as picassoQ            from "../node_modules/picasso-plugin-q/dist/picasso-q";
-import * as  picassoHammer      from "../node_modules/picasso-plugin-hammer/dist/picasso-hammer";
-import "../node_modules/ace-builds/src/ace";
+import * as picassoImport       from "./node_modules/picasso.js/dist/picasso";
+import * as picassoQ            from "./node_modules/picasso-plugin-q/dist/picasso-q";
+import * as  picassoHammer      from "./node_modules/picasso-plugin-hammer/dist/picasso-hammer";
+import "./node_modules/ace-builds/src-min-noconflict/ace";
 import "css!./q2g-ext-picassoWizardDirective.css";
 //#endregion
 
