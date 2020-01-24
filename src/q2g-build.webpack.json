@@ -1,0 +1,8 @@
+{
+    "entryFile": "./q2g-ext-picasso-wizard.ts",
+    "outFileName": "q2g-ext-picasso-wizard",
+    "outputDirectory": "./dist",
+    "tsConfigFile": "q2g-build.tsconfig.json",
+    "watch": true,
+    "ci": true
+}
